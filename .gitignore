@@ -1,3 +1,11 @@
 *.out
 B73_V5/
 *.txt
+cellranger_outfiles/
+wget_transcriptome.sh
+srr*.sh
+sra*.sh
+*gzip*.sh
+download*.sh
+ftp*.sh
+sdown_single2.sh
